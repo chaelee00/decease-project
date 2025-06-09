@@ -1,1 +1,1 @@
-# decease-project
+#disease project
